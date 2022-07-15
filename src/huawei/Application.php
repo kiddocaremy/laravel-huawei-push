@@ -5,7 +5,7 @@
  * Date: 2019/11/5
  * Time: 19:17
  */
-namespace Alone\LaravelHuaweiPush\Huawei;
+namespace Kiddocare\LaravelHuaweiPush\Huawei;
 
 class Application
 {

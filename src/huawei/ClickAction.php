@@ -5,7 +5,7 @@
  * Date: 2019/11/5
  * Time: 19:00
  */
-namespace Alone\LaravelHuaweiPush\Huawei;
+namespace Kiddocare\LaravelHuaweiPush\Huawei;
 
 use Exception;
 class ClickAction

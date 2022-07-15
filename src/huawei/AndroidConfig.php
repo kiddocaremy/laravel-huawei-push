@@ -5,7 +5,7 @@
 * Date: 2019/11/6
 * Time: 9:15
 */
-namespace Alone\LaravelHuaweiPush\Huawei;
+namespace Kiddocare\LaravelHuaweiPush\Huawei;
 
 use Exception;
 

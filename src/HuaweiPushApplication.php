@@ -1,6 +1,6 @@
 <?php
 
-namespace Alone\LaravelHuaweiPush;
+namespace Kiddocare\LaravelHuaweiPush;
 
 use Illuminate\Support\Facades;
 

@@ -5,7 +5,7 @@
  * Date: 2019/11/5
  * Time: 18:57
  */
-namespace Alone\LaravelHuaweiPush\Huawei;
+namespace Kiddocare\LaravelHuaweiPush\Huawei;
 
 class Notification
 {
