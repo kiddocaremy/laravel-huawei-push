@@ -14,10 +14,10 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "illuminate/contracts": "^9.0",
-        "illuminate/notifications": "^9.0",
-        "illuminate/support": " ^9.0",
-        "illuminate/cache": "^9.0",
+        "illuminate/contracts": "^10.0",
+        "illuminate/notifications": "^10.0",
+        "illuminate/support": " ^10.0",
+        "illuminate/cache": "^10.0",
         "opis/closure": "^3.1"
     },
     "autoload": {
